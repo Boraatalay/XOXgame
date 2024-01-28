@@ -2,7 +2,7 @@
 #include<unistd.h>
 
 using namespace std;
-//version 1.0
+
 //Player Oyuncularin ismini Kaydediyor.
 class Player
 {
