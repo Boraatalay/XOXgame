@@ -24,7 +24,5 @@ Welcome to XOX Game! Enjoy the timeless classic right on your terminal with our 
 
 Contributions welcome! Submit your ideas via GitHub issues.
 
-## License 📝
 
-This project is licensed under the MIT License.
 
