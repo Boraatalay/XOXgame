@@ -12,7 +12,7 @@ Welcome to XOX Game! Enjoy the timeless classic right on your terminal with our 
 
 1. **Compile & Run**: Compile the code and run the executable.
 2. **Follow Instructions**: Place your marks strategically.
-3. **Win Condition**: Get three marks in a row to win!
+3. **Win Condition**: Get three marks in a  horizontally , vertically or diagonally to win!
 
 ## Getting Started 🚀
 
